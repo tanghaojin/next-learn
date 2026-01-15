@@ -28,6 +28,13 @@
     "@types/react": "19.0.7",
     "@types/react-dom": "19.0.3"
   },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 80,
+    "tabWidth": 2,
+    "endOfLine": "lf"
+  },
   "pnpm": {
     "onlyBuiltDependencies": [
       "bcrypt",
